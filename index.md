@@ -42,3 +42,11 @@ Things left to do:
 - [x] Make an amazing user page
 - [x] Submit it to Gradescope
 - [ ] Receive great score
+
+## Section 3 (Actual Introduction)
+
+I am an undergraduate student at the University of California, San Diego (UCSD) studying Computer Engineering in Jacob’s School of Engineering. After being introduced to the Scratch programming language in 4th grade, I followed my interest in computing throughout high school and into university, completing work inside and outside of school to pursue my passion.
+
+I now have experience working comfortably with Java, C++, C, HTML, JavaScript, and more. I’ve enjoyed designing and implementing UI for large-scale applications such as Dolphin Emulator. At St. Jude Children’s Research Hospital, I worked on cloud applications enabling researchers to share data. During my internship at OPTEVUS, an AI-powered hiring platform, I worked on machine learning algorithms in Python, also designing a tool for annotating large text-based datasets. I am always looking to expand my skillset and create new things.
+
+Outside of computers, I enjoy making music, whether it be music production, DJing, or playing an instrument. I love staying active and finding new places to hike, skate, surf, or run.
