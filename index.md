@@ -1,8 +1,7 @@
 # Jason's Actual User Page
+The following is a GitHub markdown demonstration: 
 
 ## Section 1
-
-The following is a GitHub markdown demonstration: 
 
 **This is what <ins>I</ins> _look like_**
 
@@ -22,9 +21,9 @@ void PhysicsSystem::Update() {
 }
 ```
 
-You can find my personal website [here](https://jasonson.com/).
+You can find more code on my personal website [here](https://jasonson.com/).
 
-Also that image from earlier? You can find that [here](portrait.JPG)
+Also that image above? You can find that [here](portrait.JPG)
 
 ## Section 2
 This section's purpose is to link back to the [first section](#jasons-actual-user-page).
@@ -41,5 +40,5 @@ Steps to improve this page:
 
 Things left to do:
 - [x] Make an amazing user page
-- [ ] Submit it to Gradescope
+- [x] Submit it to Gradescope
 - [ ] Receive great score
