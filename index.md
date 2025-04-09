@@ -1,1 +1,1 @@
-[image](https://i0.wp.com/jasonson.com/wp-content/uploads/2024/12/DSC_2389-scaled.jpg?resize=1025%2C1536&ssl=1)
+[image](/portrait.JPG)
